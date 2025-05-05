@@ -1,8 +1,0 @@
-E:\FMScoutConsole\FMScoutConsole\bin\Debug\FMScoutConsole.exe.config
-E:\FMScoutConsole\FMScoutConsole\bin\Debug\FMScoutConsole.exe
-E:\FMScoutConsole\FMScoutConsole\bin\Debug\FMScoutConsole.pdb
-E:\FMScoutConsole\FMScoutConsole\obj\Debug\FMScoutConsole.csproj.AssemblyReference.cache
-E:\FMScoutConsole\FMScoutConsole\obj\Debug\FMScoutConsole.csproj.SuggestedBindingRedirects.cache
-E:\FMScoutConsole\FMScoutConsole\obj\Debug\FMScoutConsole.csproj.CoreCompileInputs.cache
-E:\FMScoutConsole\FMScoutConsole\obj\Debug\FMScoutConsole.exe
-E:\FMScoutConsole\FMScoutConsole\obj\Debug\FMScoutConsole.pdb
